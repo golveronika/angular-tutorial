@@ -1,0 +1,8 @@
+button, input { 
+    margin: 15px 0;
+}
+
+.moreItems {
+    background-color: darkblue;
+    color: white;
+}
